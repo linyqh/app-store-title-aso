@@ -1,0 +1,18 @@
+{
+  "blocked_brands": ["DeepSeek", "ChatGPT", "Character.AI", "Replika", "Tamagotchi"],
+  "storefront_groups": {
+    "us": ["en-US", "es-MX", "zh-Hans", "zh-Hant"]
+  },
+  "locales": {
+    "en-US": {
+      "name": "Chonkfish: AI Pet Companion",
+      "subtitle": "Chat buddy that remembers you",
+      "keywords": "virtual,friend,chatbot,anime,kawaii,chibi,whale,maid,cute,diary,memory,talk,character,cozy,mood"
+    },
+    "zh-Hans": {
+      "name": "大肥鱼：AI 桌宠陪伴",
+      "subtitle": "会记住你、慢慢长大的虚拟宠物",
+      "keywords": "聊天,电子,养成,治愈,可爱,萌宠,鲸鱼,女仆,二次元,动漫,日记,树洞,解压,伙伴,精灵,桌面,智能,机器人,对话,情感,心情,角色,Q版,表情包,朋友,手机,记忆,孤独,倾诉,温暖"
+    }
+  }
+}
